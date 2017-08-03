@@ -5,6 +5,7 @@
 	"keywords": ["framework", "bonita", "bonitaphp", "rmvc"],
 	"homepage": "http://bonitaphp.com/",
 	"license": "BSD-3-Clause",
+	"version":"1.0.0"
 	"require": {
 		"php": ">=7.1"
 	},
