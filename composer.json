@@ -1,0 +1,14 @@
+{
+	"name": "bonita/bonita",
+	"description": "Bonita Framework",
+	"type": "metapackage",
+	"keywords": ["framework", "bonita", "bonitaphp", "rmvc"],
+	"homepage": "http://bonitaphp.com/",
+	"license": "BSD-3-Clause",
+	"require": {
+		"php": ">=7.1.*"
+	},
+	"autoload": {
+		"psr-4": { "Bonita\\": "src/" }
+	}
+}
