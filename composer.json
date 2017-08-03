@@ -11,6 +11,6 @@
 		"php": ">=7.1"
 	},
 	"autoload": {
-		"psr-4": { "Bonita\\": "src/" }
+		"psr-4": { "Bonita\\": "major/library/" }
 	}
 }
